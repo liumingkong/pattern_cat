@@ -1,4 +1,4 @@
-package com.moon.demo.pattern.single;
+package moon.pattern.single;
 
 /**
  * <h1>单例模式的Java定义</h1>

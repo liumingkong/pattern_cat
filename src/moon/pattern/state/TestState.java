@@ -1,4 +1,4 @@
-package com.moon.demo.pattern.state;
+package moon.pattern.state;
 
 import org.junit.Test;
 

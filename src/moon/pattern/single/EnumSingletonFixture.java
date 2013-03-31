@@ -1,4 +1,4 @@
-package com.moon.demo.pattern.single;
+package moon.pattern.single;
 
 import static org.junit.Assert.*;
 
